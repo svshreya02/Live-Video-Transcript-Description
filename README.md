@@ -22,6 +22,10 @@ streamlit run main.py
 Enter the live stream URL in the provided text input and select the number of seconds for extraction using the slider.
 The application will extract frames and audio, display the frames, and provide a transcript of the audio.
 It will then generate descriptions for the frames and a consolidated description based on the transcript and frame descriptions.
+![Image1](IMG1.png)
+![Image1](IMG2.png)
+![Image1](IMG3.png)
+![Image1](IMG4.png)
 
 # Requirements
 - Python 3.7 or higher
