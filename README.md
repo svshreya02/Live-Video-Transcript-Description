@@ -24,11 +24,11 @@ The application will extract frames and audio, display the frames, and provide a
 It will then generate descriptions for the frames and a consolidated description based on the transcript and frame descriptions.
 
 # Requirements
-Python 3.7 or higher
-Streamlit
-ffmpeg
-OpenAI API key
-Whisper API key
+- Python 3.7 or higher
+- Streamlit
+- ffmpeg
+- OpenAI API key
+- Whisper API key
 
 ```python
 streamlit run main.py
