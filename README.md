@@ -2,6 +2,7 @@
 
 # Introduction
 This Streamlit application extracts frames and audio from a live stream URL (YouTube, Twitch, etc.), performs analysis on the extracted frames and audio, and generates a consolidated description based on the video frames and transcript.
+![Demo](video1219895816.gif)
 
 # Usage
 Clone this repository to your local machine.
